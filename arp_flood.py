@@ -1,6 +1,6 @@
 import scapy.all as scapy
 
-vendor = "b8:e8:56:"
+vendor = "30:9c:23:"
 destMAC = "FF:FF:FF:FF:FF:FF"
 
 while True:
